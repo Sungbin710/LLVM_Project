@@ -1,0 +1,10 @@
+Sum: 258
+main: 162
+Initialize: 162
+initialise_benchmark: 116
+Test: 100
+RandomInteger: 100
+func: 96
+benchmark: 96
+verify_benchmark: 92
+InitSeed: 58

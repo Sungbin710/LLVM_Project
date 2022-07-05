@@ -1,0 +1,50 @@
+func name: Sum
+function size: 258
+start_region: 134234112 (0x8004000)
+region_size: 512
+
+func name: main
+function size: 162
+start_region: 134234624 (0x8004200)
+region_size: 256
+
+func name: Initialize
+function size: 162
+start_region: 134234880 (0x8004300)
+region_size: 256
+
+func name: initialise_benchmark
+function size: 116
+start_region: 134235136 (0x8004400)
+region_size: 128
+
+func name: Test
+function size: 100
+start_region: 134235264 (0x8004480)
+region_size: 128
+
+func name: RandomInteger
+function size: 100
+start_region: 134235392 (0x8004500)
+region_size: 128
+
+func name: func
+function size: 96
+start_region: 134235520 (0x8004580)
+region_size: 128
+
+func name: benchmark
+function size: 96
+start_region: 134235648 (0x8004600)
+region_size: 128
+
+func name: verify_benchmark
+function size: 92
+start_region: 134235776 (0x8004680)
+region_size: 128
+
+func name: InitSeed
+function size: 58
+start_region: 134235904 (0x8004700)
+region_size: 64
+
